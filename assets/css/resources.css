@@ -1,0 +1,67 @@
+/* Created by Tim Garvin
+Copyright © 2017 Tim Garvin */
+
+/* Resources page Style */
+
+/* Main Content Styles */
+#main-content
+{
+    display: flex;
+    justify-content: space-around;
+}
+
+#current-content
+{
+    width: 75%;
+    text-align: center;
+    margin-top: 0.5%;
+    margin-bottom: 1%;
+}
+
+#current-content div
+{
+    display: inline-block;
+    vertical-align: middle;
+    outline: 0.3vmax solid dodgerblue;
+    padding: 2%;
+    margin: 4%;
+}
+
+/* Main Header Style */
+h2
+{
+    text-align: left;
+}
+
+/* Subheader Style */
+h3
+{
+    text-align: left;
+}
+
+/* Bulleted List Styles */
+.bulleted-list
+{
+    margin: 0;
+}
+
+.bulleted-list li
+{
+    color: dodgerblue;
+    text-align: left;
+}
+
+.bulleted-list li a
+{
+    font-weight: normal;
+    font-size: 1.3vmax;
+    color: white;
+    text-decoration: none;
+}
+
+.bulleted-list li a:hover
+{
+    font-weight: normal;
+    color: dodgerblue;
+    text-decoration: underline;
+}

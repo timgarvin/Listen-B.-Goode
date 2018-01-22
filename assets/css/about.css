@@ -1,0 +1,19 @@
+/* Created by Tim Garvin
+Copyright © 2017 Tim Garvin */
+
+/* About page Style */
+
+/* Main Content Style */
+#main-content
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+/* About Site and About Webmaster Section Styles */
+#about-site, #about-webmaster
+{
+    width: 58%;
+    margin: 2%;
+}

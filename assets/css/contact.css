@@ -1,0 +1,62 @@
+/* Created by Tim Garvin
+Copyright © 2017 Tim Garvin */
+
+/* Contact page Style */
+
+/* Main Content Styles */
+#main-content
+{
+    display: inline-flex;
+    justify-content: center;
+}
+
+#current-content
+{
+    width: 58%
+}
+
+/* Message Style */
+textarea
+{
+    margin-bottom: 2.5%;
+    height: 25vmax;
+}
+
+/* Submit Button Style */
+#btnSubmit
+{
+    float: left;
+    width: 20%;
+}
+
+/* Label Style */
+label
+{
+    display: inline-block;
+    margin-top: 3%;
+}
+
+/* Error Message Styles */
+#error:empty
+{
+    display: none;
+}
+
+#error
+{
+    display: inline-block;
+    color: red;
+    font-size: 2vmax;
+}
+
+/* Required Fields Styles */
+.required, #required-fields
+{
+    color: dodgerblue;
+    font-size: 2vmax;
+}
+
+.required
+{
+    display: inline-block;
+}

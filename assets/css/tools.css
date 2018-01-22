@@ -1,0 +1,19 @@
+/* Created by Tim Garvin
+Copyright © 2017 Tim Garvin */
+
+/* Tools page Style */
+
+/* Main Content Style */
+#main-content
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+/* Artwork Resizer and SoundCloud Tracks Loader Sections Style */
+#artwork-resizer, #soundcloud-tracks-loader
+{
+    width: 58%;
+    margin: 2%;
+}
