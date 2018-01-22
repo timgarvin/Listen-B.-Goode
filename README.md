@@ -16,6 +16,9 @@ Made by music fans for music fans, Listen B. Goode is a website that provides va
 * GIMP
 * Inkscape
 
+# Notes
+CSS, JavaScript (jQuery), and PHP code used for this website can be found in the assets folder. Images used for this website can be found in the assets folder also.
+
 # License
 Copyright © 2017 Tim Garvin. All rights reserved.
 
